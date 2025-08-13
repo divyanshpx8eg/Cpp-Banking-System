@@ -1,0 +1,10 @@
+admin01 SecurePass1 admin
+superuserX TopSecret! admin
+admin_jane StrongPwd# admin
+root_master RootAcc! admin
+admin_bob PassWord99 admin
+sysadmin007 SysAdmin! admin
+admin_lucy Lucy1234! admin
+chief_admin AdminPass admin
+admin_mike MikeSecure admin
+boss_admin BossPwd! admin

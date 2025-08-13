@@ -1,0 +1,8 @@
+
+Command -1 (to Complile)
+g++ main.cpp src/*.cpp -I include -o BankSystem 
+
+
+
+Command -2 (To Run)
+./BankSystem
